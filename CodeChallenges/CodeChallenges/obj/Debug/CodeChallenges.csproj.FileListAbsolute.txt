@@ -1,0 +1,12 @@
+E:\Materials\Demos\CodeChallenges\CodeChallenges\bin\Debug\CodeChallenges.exe.config
+E:\Materials\Demos\CodeChallenges\CodeChallenges\bin\Debug\CodeChallenges.exe
+E:\Materials\Demos\CodeChallenges\CodeChallenges\bin\Debug\CodeChallenges.pdb
+E:\Materials\Demos\CodeChallenges\CodeChallenges\obj\Debug\CodeChallenges.csprojResolveAssemblyReference.cache
+E:\Materials\Demos\CodeChallenges\CodeChallenges\obj\Debug\CodeChallenges.exe
+E:\Materials\Demos\CodeChallenges\CodeChallenges\obj\Debug\CodeChallenges.pdb
+E:\CodeChallenges\CodeChallenges\CodeChallenges\bin\Debug\CodeChallenges.exe.config
+E:\CodeChallenges\CodeChallenges\CodeChallenges\obj\Debug\CodeChallenges.exe
+E:\CodeChallenges\CodeChallenges\CodeChallenges\obj\Debug\CodeChallenges.pdb
+E:\CodeChallenges\CodeChallenges\CodeChallenges\bin\Debug\CodeChallenges.exe
+E:\CodeChallenges\CodeChallenges\CodeChallenges\bin\Debug\CodeChallenges.pdb
+E:\CodeChallenges\CodeChallenges\CodeChallenges\obj\Debug\CodeChallenges.csprojResolveAssemblyReference.cache
